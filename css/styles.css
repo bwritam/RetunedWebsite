@@ -1,0 +1,79 @@
+body{
+	color: #40514E;
+	margin: 0;
+}
+.top{
+	background-image: url('https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thenewyorker.png,fl_progressive,g_face,h_450,q_80,w_800/v1590006383/thenewyorker_the-oddest-terms-used-for-antique-books-explained.jpg');
+	width: 100%;
+    height: 300px;
+    background-repeat: repeat-x;
+    background-size: contain;
+}
+.logo{
+    padding: 50px 0 100px 25px;
+	width: 15%;
+}
+.space{
+	color: white;
+}
+.row{
+	padding: 0 0 0 70px;
+}
+.div_writam{
+	width: 320px;
+	margin-left: 75px;
+	margin-right: 150px;
+	padding-bottom: 50px;
+}
+.bottom-container {
+	background-color: #66BFBF;
+	position: relative;
+	padding: 50px 0 20px;
+	text-align: center;
+	 
+}
+h2{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+a{
+	color: #11999E;
+	font-family: 'Montserrat', sans-serif;
+	margin: 10px 20px;
+	text-decoration: none;
+}
+a:hover{
+	color: #EAF6F6;
+}
+.contact-message{
+	width: 40%;
+	margin: 40px auto 60px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
